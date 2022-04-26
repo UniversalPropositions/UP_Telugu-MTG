@@ -1,0 +1,1187 @@
+# global.columns = ID UP:PRED UP:ARGHEADS UP:ARGSPANS
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Telugu-MTG/te_mtg-ud-dev.conllu 54
+# sent_id = 54
+# text = మనం ఎం..........
+1	_	_	_
+2	_	_	_
+3	_	_	_
+4	eat.01	A0:1|AM-CAU:2|A1:3	A0:1-1|AM-CAU:2-2|A1:3-3
+5	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Telugu-MTG/te_mtg-ud-dev.conllu 59
+# sent_id = 59
+# text = నువ్వు..........
+1	_	_	_
+2	_	_	_
+3	work.01	A0:1|A1:2	A0:1-1|A1:2-2
+4	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Telugu-MTG/te_mtg-ud-dev.conllu 64
+# sent_id = 64
+# text = నేను ఆ..........
+1	_	_	_
+2	_	_	_
+3	_	_	_
+4	do.02	A0:1|A1:3	A0:1-1|A1:2-3
+5	get.02	A0:1|A1:3	A0:1-1|A1:2-4
+6	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Telugu-MTG/te_mtg-ud-dev.conllu 68
+# sent_id = 68
+# text = మీ తల్..........
+1	_	_	_
+2	_	_	_
+3	_	_	_
+4	_	_	_
+5	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Telugu-MTG/te_mtg-ud-dev.conllu 69
+# sent_id = 69
+# text = అవి మా..........
+1	_	_	_
+2	_	_	_
+3	_	_	_
+4	_	_	_
+5	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Telugu-MTG/te_mtg-ud-dev.conllu 72
+# sent_id = 72
+# text = ఇది పళ..........
+1	_	_	_
+2	_	_	_
+3	_	_	_
+4	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Telugu-MTG/te_mtg-ud-dev.conllu 79
+# sent_id = 79
+# text = ఇవ్వేళ..........
+1	give.01	A2:2|AM-LOC:3	A2:2-2|AM-LOC:3-3
+2	_	_	_
+3	_	_	_
+4	do.01	A0:2|AM-LOC:3	A0:2-2|AM-LOC:3-3
+5	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Telugu-MTG/te_mtg-ud-dev.conllu 81
+# sent_id = 81
+# text = నిన్న ..........
+1	_	_	_
+2	_	_	_
+3	_	_	_
+4	_	_	_
+5	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Telugu-MTG/te_mtg-ud-dev.conllu 86
+# sent_id = 86
+# text = దుకాణా..........
+1	_	_	_
+2	_	_	_
+3	_	_	_
+4	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Telugu-MTG/te_mtg-ud-dev.conllu 91
+# sent_id = 91
+# text = అతను న..........
+1	_	_	_
+2	_	_	_
+3	go.02	A0:1|A4:2	A0:1-1|A4:2-2
+4	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Telugu-MTG/te_mtg-ud-dev.conllu 113
+# sent_id = 113
+# text = మా అబ్..........
+1	_	_	_
+2	_	_	_
+3	_	_	_
+4	_	_	_
+5	_	_	_
+6	eat.01	A0:2|AM-MNR:4|A1:5	A0:1-2|AM-MNR:3-4|A1:5-5
+7	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Telugu-MTG/te_mtg-ud-dev.conllu 115
+# sent_id = 115
+# text = కమల ఒం..........
+1	_	_	_
+2	_	_	_
+3	_	_	_
+4	go.02	_	_
+5	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Telugu-MTG/te_mtg-ud-dev.conllu 117
+# sent_id = 117
+# text = వాళ్ళు..........
+1	_	_	_
+2	_	_	_
+3	_	_	_
+4	_	_	_
+5	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Telugu-MTG/te_mtg-ud-dev.conllu 123
+# sent_id = 123
+# text = ఎవరిదగ..........
+1	_	_	_
+2	go.02	A4:1	A4:1-1
+3	_	_	_
+4	think.01	A1:1|A1:2	A1:1-2|A1:1-2
+5	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Telugu-MTG/te_mtg-ud-dev.conllu 132
+# sent_id = 132
+# text = నాలాగా..........
+1	_	_	_
+2	_	_	_
+3	suffer.01	AM-DIS:1|A1:2	AM-DIS:1-1|A1:2-2
+4	_	_	_
+5	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Telugu-MTG/te_mtg-ud-dev.conllu 144
+# sent_id = 144
+# text = రామయ్య..........
+1	_	_	_
+2	_	_	_
+3	_	_	_
+4	bring.01	A0:1|A1:3	A0:1-2|A1:3-3
+5	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Telugu-MTG/te_mtg-ud-dev.conllu 146
+# sent_id = 146
+# text = రామయ్య..........
+1	_	_	_
+2	_	_	_
+3	get.01	A0:1|A0:2|A1:4	A0:1-1|A0:2-2|A1:4-4
+4	_	_	_
+5	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Telugu-MTG/te_mtg-ud-dev.conllu 152
+# sent_id = 152
+# text = నాకు చ..........
+1	_	_	_
+2	_	_	_
+3	be.01	A1:1|A2:2	A1:1-1|A2:2-2
+4	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Telugu-MTG/te_mtg-ud-dev.conllu 153
+# sent_id = 153
+# text = నాకు చ..........
+1	_	_	_
+2	_	_	_
+3	_	_	_
+4	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Telugu-MTG/te_mtg-ud-dev.conllu 157
+# sent_id = 157
+# text = శర్మగా..........
+1	_	_	_
+2	_	_	_
+3	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Telugu-MTG/te_mtg-ud-dev.conllu 165
+# sent_id = 165
+# text = ఆయన ప్..........
+1	_	_	_
+2	_	_	_
+3	_	_	_
+4	_	_	_
+5	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Telugu-MTG/te_mtg-ud-dev.conllu 186
+# sent_id = 186
+# text = నువ్వు..........
+1	_	_	_
+2	_	_	_
+3	be.01	A1:1|A2:2	A1:1-1|A2:2-2
+4	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Telugu-MTG/te_mtg-ud-dev.conllu 205
+# sent_id = 205
+# text = దూరపు ..........
+1	_	_	_
+2	_	_	_
+3	_	_	_
+4	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Telugu-MTG/te_mtg-ud-dev.conllu 216
+# sent_id = 216
+# text = వాడు అ..........
+1	_	_	_
+2	say.01	AM-TMP:5	AM-TMP:5-5
+3	eat.01	A0:2|AM-TMP:5	A0:2-2|AM-TMP:4-5
+4	_	_	_
+5	_	_	_
+6	_	_	_
+7	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Telugu-MTG/te_mtg-ud-dev.conllu 236
+# sent_id = 236
+# text = ఈ పని ..........
+1	_	_	_
+2	_	_	_
+3	do.02	A1:2	A1:1-2
+4	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Telugu-MTG/te_mtg-ud-dev.conllu 254
+# sent_id = 254
+# text = శర్మగా..........
+1	_	_	_
+2	go.02	A0:1	A0:1-1
+3	_	_	_
+4	know.01	A0:1|A1:3	A0:1-1|A1:3-3
+5	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Telugu-MTG/te_mtg-ud-dev.conllu 265
+# sent_id = 265
+# text = మేష్టా..........
+1	_	_	_
+2	_	_	_
+3	_	_	_
+4	post.01	A0:1|A1:3	A0:1-1|A1:3-3
+5	_	_	_
+6	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Telugu-MTG/te_mtg-ud-dev.conllu 269
+# sent_id = 269
+# text = ఇంటికి..........
+1	_	_	_
+2	_	_	_
+3	_	_	_
+4	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Telugu-MTG/te_mtg-ud-dev.conllu 285
+# sent_id = 285
+# text = ఒక ఊళ్..........
+1	_	_	_
+2	_	_	_
+3	_	_	_
+4	_	_	_
+5	be.01	A1:1|A2:4	A1:1-2|A2:3-4
+6	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Telugu-MTG/te_mtg-ud-dev.conllu 312
+# sent_id = 312
+# text = అతను ఆ..........
+1	_	_	_
+2	_	_	_
+3	come.01	A1:1|AM-TMP:2	A1:1-1|AM-TMP:2-2
+4	_	_	_
+5	_	_	_
+6	find.01	A0:1|A1:5	A0:1-3|A1:5-5
+7	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Telugu-MTG/te_mtg-ud-dev.conllu 323
+# sent_id = 323
+# text = నేను వ..........
+1	_	_	_
+2	go.02	A0:1	A0:1-1
+3	_	_	_
+4	_	_	_
+5	_	_	_
+6	_	_	_
+7	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Telugu-MTG/te_mtg-ud-dev.conllu 329
+# sent_id = 329
+# text = రాము న..........
+1	_	_	_
+2	_	_	_
+3	_	_	_
+4	_	_	_
+5	_	_	_
+6	_	_	_
+7	tell.01	A0:1	A0:1-1
+8	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Telugu-MTG/te_mtg-ud-dev.conllu 333
+# sent_id = 333
+# text = నువ్వు..........
+1	_	_	_
+2	_	_	_
+3	_	_	_
+4	_	_	_
+5	come.01	A0:3|A1:4	A0:3-3|A1:4-4
+6	_	_	_
+7	say.01	A0:1	A0:1-6
+8	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Telugu-MTG/te_mtg-ud-dev.conllu 337
+# sent_id = 337
+# text = నేను న..........
+1	_	_	_
+2	_	_	_
+3	_	_	_
+4	get.02	A1:2	A1:2-2
+5	_	_	_
+6	ask.01	A0:1	A0:1-4
+7	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Telugu-MTG/te_mtg-ud-dev.conllu 340
+# sent_id = 340
+# text = నువ్వు..........
+1	_	_	_
+2	_	_	_
+3	_	_	_
+4	_	_	_
+5	come.01	AM-COM:2|A0:3	AM-COM:2-2|A0:3-3
+6	_	_	_
+7	say.01	A0:1	A0:1-6
+8	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Telugu-MTG/te_mtg-ud-dev.conllu 344
+# sent_id = 344
+# text = మీరు వ..........
+1	_	_	_
+2	_	_	_
+3	go.02	A0:1|A1:2	A0:1-1|A1:2-2
+4	_	_	_
+5	watch.01	A0:1|A1:4	A0:1-1|A1:2-4
+6	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Telugu-MTG/te_mtg-ud-dev.conllu 345
+# sent_id = 345
+# text = మీరు న..........
+1	_	_	_
+2	_	_	_
+3	_	_	_
+4	call.02	A0:1|A1:2|A1:3	A0:1-1|A1:2-2|A1:3-3
+5	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Telugu-MTG/te_mtg-ud-dev.conllu 404
+# sent_id = 404
+# text = ఎ. గార..........
+1	_	_	_
+2	_	_	_
+3	_	_	_
+4	_	_	_
+5	_	_	_
+6	_	_	_
+7	_	_	_
+8	_	_	_
+9	_	_	_
+10	_	_	_
+11	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Telugu-MTG/te_mtg-ud-dev.conllu 432
+# sent_id = 432
+# text = వారు వ..........
+1	_	_	_
+2	come.01	A1:1	A1:1-1
+3	_	_	_
+4	do.01	A0:1	A0:1-1
+5	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Telugu-MTG/te_mtg-ud-dev.conllu 434
+# sent_id = 434
+# text = ఇక ఏమి..........
+1	_	_	_
+2	_	_	_
+3	do.02	A0:1|A1:2	A0:1-1|A1:2-2
+4	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Telugu-MTG/te_mtg-ud-dev.conllu 436
+# sent_id = 436
+# text = మా తమ్..........
+1	_	_	_
+2	_	_	_
+3	_	_	_
+4	sit.01	A0:2|A1:3	A0:1-2|A1:3-3
+5	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Telugu-MTG/te_mtg-ud-dev.conllu 448
+# sent_id = 448
+# text = వచ్చీ ..........
+1	_	_	_
+2	_	_	_
+3	_	_	_
+4	talk.01	A0:2|A3:3	A0:1-2|A3:3-3
+5	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Telugu-MTG/te_mtg-ud-dev.conllu 453
+# sent_id = 453
+# text = డాక్టర..........
+1	_	_	_
+2	_	_	_
+3	_	_	_
+4	_	_	_
+5	_	_	_
+6	meet.02	AM-DIS:1|A1:5	AM-DIS:1-3|A1:5-5
+7	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Telugu-MTG/te_mtg-ud-dev.conllu 455
+# sent_id = 455
+# text = ఒక పాట..........
+1	_	_	_
+2	_	_	_
+3	sing.01	A1:2	A1:1-2
+4	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Telugu-MTG/te_mtg-ud-dev.conllu 461
+# sent_id = 461
+# text = ఆయన రా..........
+1	_	_	_
+2	miss.01	A0:1	A0:1-1
+3	_	_	_
+4	_	_	_
+5	_	_	_
+6	_	_	_
+7	go.02	AM-MOD:3|A0:5|A4:6	AM-MOD:3-3|A0:5-5|A4:6-6
+8	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Telugu-MTG/te_mtg-ud-dev.conllu 462
+# sent_id = 462
+# text = అయ్యో ..........
+1	_	_	_
+2	_	_	_
+3	_	_	_
+4	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Telugu-MTG/te_mtg-ud-dev.conllu 463
+# sent_id = 463
+# text = ఓహో ! ..........
+1	_	_	_
+2	_	_	_
+3	_	_	_
+4	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Telugu-MTG/te_mtg-ud-dev.conllu 506
+# sent_id = 506
+# text = ఆలస్యం..........
+1	_	_	_
+2	_	_	_
+3	_	_	_
+4	_	_	_
+5	move.01	A4:4	A4:4-4
+6	_	_	_
+7	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Telugu-MTG/te_mtg-ud-dev.conllu 519
+# sent_id = 519
+# text = నేను ఐ..........
+1	_	_	_
+2	_	_	_
+3	_	_	_
+4	keep.02	A1:1|A2:3	A1:1-1|A2:2-3
+5	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Telugu-MTG/te_mtg-ud-dev.conllu 526
+# sent_id = 526
+# text = ఆమె నా..........
+1	_	_	_
+2	_	_	_
+3	_	_	_
+4	_	_	_
+5	tell.01	A0:1|A1:4|AM-NEG:6	A0:1-1|A1:3-4|AM-NEG:6-6
+6	_	_	_
+7	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Telugu-MTG/te_mtg-ud-dev.conllu 530
+# sent_id = 530
+# text = వాడు వ..........
+1	_	_	_
+2	come.01	A1:1	A1:1-1
+3	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Telugu-MTG/te_mtg-ud-dev.conllu 553
+# sent_id = 553
+# text = నేను మ..........
+1	_	_	_
+2	like.02	A0:1	A0:1-1
+3	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Telugu-MTG/te_mtg-ud-dev.conllu 554
+# sent_id = 554
+# text = నేను చ..........
+1	_	_	_
+2	_	_	_
+3	_	_	_
+4	_	_	_
+5	_	_	_
+6	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Telugu-MTG/te_mtg-ud-dev.conllu 581
+# sent_id = 581
+# text = అతను ర..........
+1	_	_	_
+2	_	_	_
+3	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Telugu-MTG/te_mtg-ud-dev.conllu 595
+# sent_id = 595
+# text = ఏది చౌ..........
+1	_	_	_
+2	do.02	A1:1	A1:1-1
+3	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Telugu-MTG/te_mtg-ud-dev.conllu 597
+# sent_id = 597
+# text = మీ పుస..........
+1	_	_	_
+2	_	_	_
+3	_	_	_
+4	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Telugu-MTG/te_mtg-ud-dev.conllu 611
+# sent_id = 611
+# text = నువ్వు..........
+1	_	_	_
+2	_	_	_
+3	look.01	A0:1|A1:2	A0:1-1|A1:2-2
+4	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Telugu-MTG/te_mtg-ud-dev.conllu 615
+# sent_id = 615
+# text = అది దొ..........
+1	_	_	_
+2	find.01	AM-TMP:5	AM-TMP:4-5
+3	_	_	_
+4	_	_	_
+5	_	_	_
+6	take.01	A0:1	A0:1-5
+7	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Telugu-MTG/te_mtg-ud-dev.conllu 638
+# sent_id = 638
+# text = తెలియన..........
+1	know.01	A0:2	A0:2-2
+2	_	_	_
+3	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Telugu-MTG/te_mtg-ud-dev.conllu 676
+# sent_id = 676
+# text = మీ కలం..........
+1	_	_	_
+2	_	_	_
+3	_	_	_
+4	_	_	_
+5	_	_	_
+6	_	_	_
+7	_	_	_
+8	_	_	_
+9	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Telugu-MTG/te_mtg-ud-dev.conllu 680
+# sent_id = 680
+# text = కమల ఒం..........
+1	_	_	_
+2	_	_	_
+3	be.01	A1:1|A2:2	A1:1-1|A2:2-2
+4	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Telugu-MTG/te_mtg-ud-dev.conllu 711
+# sent_id = 711
+# text = ఎవడు త..........
+1	_	_	_
+2	_	_	_
+3	_	_	_
+4	_	_	_
+5	_	_	_
+6	get.05	_	_
+7	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Telugu-MTG/te_mtg-ud-dev.conllu 724
+# sent_id = 724
+# text = నాకు త..........
+1	_	_	_
+2	_	_	_
+3	know.01	A0:1|AM-MNR:2	A0:1-1|AM-MNR:2-2
+4	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Telugu-MTG/te_mtg-ud-dev.conllu 735
+# sent_id = 735
+# text = రైలు ర..........
+1	_	_	_
+2	come.01	A1:1	A1:1-1
+3	_	_	_
+4	_	_	_
+5	tell.01	AM-ADV:2|A2:4	AM-ADV:2-2|A2:4-4
+6	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Telugu-MTG/te_mtg-ud-dev.conllu 744
+# sent_id = 744
+# text = ఆమె కు..........
+1	_	_	_
+2	_	_	_
+3	be.01	A1:1|A2:2	A1:1-1|A2:2-2
+4	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Telugu-MTG/te_mtg-ud-dev.conllu 757
+# sent_id = 757
+# text = నా దగ్..........
+1	_	_	_
+2	discount.01	A1:3	A1:3-3
+3	_	_	_
+4	_	_	_
+5	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Telugu-MTG/te_mtg-ud-dev.conllu 762
+# sent_id = 762
+# text = వీడు మ..........
+1	_	_	_
+2	_	_	_
+3	_	_	_
+4	be.01	A1:1|A2:3	A1:1-1|A2:3-3
+5	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Telugu-MTG/te_mtg-ud-dev.conllu 763
+# sent_id = 763
+# text = నా ఉత్..........
+1	_	_	_
+2	_	_	_
+3	_	_	_
+4	work.01	A0:1	A0:1-2
+5	work.01	A0:1	A0:1-2
+6	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Telugu-MTG/te_mtg-ud-dev.conllu 817
+# sent_id = 817
+# text = వాళ్ళు..........
+1	_	_	_
+2	_	_	_
+3	take.01	A0:1|A1:2	A0:1-1|A1:2-2
+4	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Telugu-MTG/te_mtg-ud-dev.conllu 820
+# sent_id = 820
+# text = ఏం అను..........
+1	_	_	_
+2	think.01	A1:1	A1:1-1
+3	_	_	_
+4	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Telugu-MTG/te_mtg-ud-dev.conllu 821
+# sent_id = 821
+# text = ఆ డబ్బ..........
+1	_	_	_
+2	_	_	_
+3	_	_	_
+4	do.02	A0:2|A1:3	A0:1-2|A1:3-3
+5	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Telugu-MTG/te_mtg-ud-dev.conllu 838
+# sent_id = 838
+# text = వాడికి..........
+1	_	_	_
+2	_	_	_
+3	_	_	_
+4	be.01	A1:1|A2:3	A1:1-1|A2:2-3
+5	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Telugu-MTG/te_mtg-ud-dev.conllu 844
+# sent_id = 844
+# text = అన్నం ..........
+1	_	_	_
+2	_	_	_
+3	say.01	A1:1|A2:2	A1:1-1|A2:2-2
+4	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Telugu-MTG/te_mtg-ud-dev.conllu 865
+# sent_id = 865
+# text = నువ్వు..........
+1	_	_	_
+2	_	_	_
+3	go.02	A0:1|A4:2	A0:1-1|A4:2-2
+4	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Telugu-MTG/te_mtg-ud-dev.conllu 878
+# sent_id = 878
+# text = ఇది ఆయ..........
+1	_	_	_
+2	_	_	_
+3	_	_	_
+4	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Telugu-MTG/te_mtg-ud-dev.conllu 882
+# sent_id = 882
+# text = ఆమె కొ..........
+1	_	_	_
+2	_	_	_
+3	_	_	_
+4	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Telugu-MTG/te_mtg-ud-dev.conllu 900
+# sent_id = 900
+# text = లేపాక్..........
+1	_	_	_
+2	_	_	_
+3	_	_	_
+4	_	_	_
+5	exist.01	A1:1|A1:4	A1:1-1|A1:3-4
+6	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Telugu-MTG/te_mtg-ud-dev.conllu 907
+# sent_id = 907
+# text = సొంతంగ..........
+1	_	_	_
+2	_	_	_
+3	_	_	_
+4	_	_	_
+5	_	_	_
+6	miss.01	A1:4	A1:3-4
+7	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Telugu-MTG/te_mtg-ud-dev.conllu 909
+# sent_id = 909
+# text = కావలిస..........
+1	_	_	_
+2	_	_	_
+3	write.01	AM-TMP:2	AM-TMP:2-2
+4	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Telugu-MTG/te_mtg-ud-dev.conllu 911
+# sent_id = 911
+# text = మీరు ఎ..........
+1	_	_	_
+2	_	_	_
+3	_	_	_
+4	_	_	_
+5	come.01	A1:1|AM-MNR:2	A1:1-1|AM-MNR:2-2
+6	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Telugu-MTG/te_mtg-ud-dev.conllu 917
+# sent_id = 917
+# text = అతనికి..........
+1	_	_	_
+2	_	_	_
+3	_	_	_
+4	give.01	A0:1	A0:1-1
+5	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Telugu-MTG/te_mtg-ud-dev.conllu 926
+# sent_id = 926
+# text = ఆయన రా..........
+1	_	_	_
+2	_	_	_
+3	_	_	_
+4	tell.01	A0:1|A2:3	A0:1-2|A2:3-3
+5	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Telugu-MTG/te_mtg-ud-dev.conllu 929
+# sent_id = 929
+# text = మనం పర..........
+1	_	_	_
+2	_	_	_
+3	_	_	_
+4	_	_	_
+5	_	_	_
+6	_	_	_
+7	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Telugu-MTG/te_mtg-ud-dev.conllu 930
+# sent_id = 930
+# text = నీ ఇంట..........
+1	_	_	_
+2	give.01	A0:1	A0:1-1
+3	_	_	_
+4	_	_	_
+5	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Telugu-MTG/te_mtg-ud-dev.conllu 933
+# sent_id = 933
+# text = కమల కల..........
+1	_	_	_
+2	_	_	_
+3	_	_	_
+4	_	_	_
+5	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Telugu-MTG/te_mtg-ud-dev.conllu 935
+# sent_id = 935
+# text = రాముడు..........
+1	_	_	_
+2	_	_	_
+3	_	_	_
+4	go.02	A0:1|A4:3	A0:1-2|A4:3-3
+5	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Telugu-MTG/te_mtg-ud-dev.conllu 947
+# sent_id = 947
+# text = కమల రా..........
+1	_	_	_
+2	_	_	_
+3	_	_	_
+4	offer.01	A2:2|A1:3	A2:1-2|A1:3-3
+5	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Telugu-MTG/te_mtg-ud-dev.conllu 952
+# sent_id = 952
+# text = కమలకు ..........
+1	_	_	_
+2	_	_	_
+3	know.01	A1:1|A1:2	A1:1-1|A1:2-2
+4	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Telugu-MTG/te_mtg-ud-dev.conllu 971
+# sent_id = 971
+# text = అన్ని ..........
+1	_	_	_
+2	_	_	_
+3	_	_	_
+4	_	_	_
+5	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Telugu-MTG/te_mtg-ud-dev.conllu 984
+# sent_id = 984
+# text = నాకు ఆ..........
+1	_	_	_
+2	_	_	_
+3	_	_	_
+4	_	_	_
+5	_	_	_
+6	know.06	A0:1	A0:1-1
+7	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Telugu-MTG/te_mtg-ud-dev.conllu 990
+# sent_id = 990
+# text = రామారా..........
+1	_	_	_
+2	_	_	_
+3	_	_	_
+4	go.02	A0:1|A4:3	A0:1-1|A4:2-3
+5	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Telugu-MTG/te_mtg-ud-dev.conllu 992
+# sent_id = 992
+# text = దేవుడు..........
+1	_	_	_
+2	look.01	A0:1	A0:1-1
+3	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Telugu-MTG/te_mtg-ud-dev.conllu 1012
+# sent_id = 1012
+# text = ఏం చేస..........
+1	_	_	_
+2	do.02	A1:1	A1:1-1
+3	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Telugu-MTG/te_mtg-ud-dev.conllu 1018
+# sent_id = 1018
+# text = నీరు ప..........
+1	_	_	_
+2	_	_	_
+3	_	_	_
+4	_	_	_
+5	_	_	_
+6	dry.02	A1:4|A0:5	A1:4-4|A0:5-5
+7	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Telugu-MTG/te_mtg-ud-dev.conllu 1027
+# sent_id = 1027
+# text = నాకు మ..........
+1	_	_	_
+2	_	_	_
+3	_	_	_
+4	know.01	A0:1|A1:3	A0:1-1|A1:2-3
+5	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Telugu-MTG/te_mtg-ud-dev.conllu 1033
+# sent_id = 1033
+# text = వాడేటల..........
+1	_	_	_
+2	_	_	_
+3	make.02	A0:1|A1:2	A0:1-1|A1:2-2
+4	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Telugu-MTG/te_mtg-ud-dev.conllu 1065
+# sent_id = 1065
+# text = అంగడిక..........
+1	_	_	_
+2	go.02	A4:1	A4:1-1
+3	_	_	_
+4	_	_	_
+5	_	_	_
+6	find.01	AM-ADV:2|A1:5	AM-ADV:2-2|A1:4-5
+7	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Telugu-MTG/te_mtg-ud-dev.conllu 1070
+# sent_id = 1070
+# text = మావాళ్..........
+1	_	_	_
+2	come.01	A1:1	A1:1-1
+3	_	_	_
+4	_	_	_
+5	give.01	AM-ADV:2|A1:4	AM-ADV:2-2|A1:4-4
+6	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Telugu-MTG/te_mtg-ud-dev.conllu 1074
+# sent_id = 1074
+# text = నన్ను ..........
+1	_	_	_
+2	tell.01	_	_
+3	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Telugu-MTG/te_mtg-ud-dev.conllu 1077
+# sent_id = 1077
+# text = వాడికి..........
+1	_	_	_
+2	_	_	_
+3	_	_	_
+4	come.01	A4:2|A1:3	A4:1-2|A1:3-3
+5	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Telugu-MTG/te_mtg-ud-dev.conllu 1089
+# sent_id = 1089
+# text = ఎప్పుడ..........
+1	_	_	_
+2	_	_	_
+3	go.02	AM-TMP:1|A4:2	AM-TMP:1-1|A4:2-2
+4	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Telugu-MTG/te_mtg-ud-dev.conllu 1093
+# sent_id = 1093
+# text = ఎందులో..........
+1	_	_	_
+2	_	_	_
+3	_	_	_
+4	_	_	_
+5	see.01	A1:4|A0:6	A1:3-4|A0:6-6
+6	_	_	_
+7	_	_	_
+8	_	_	_
+9	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Telugu-MTG/te_mtg-ud-dev.conllu 1102
+# sent_id = 1102
+# text = ఆ పిల్..........
+1	_	_	_
+2	_	_	_
+3	_	_	_
+4	weep.01	A1:2|AM-MNR:3	A1:1-2|AM-MNR:3-3
+5	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Telugu-MTG/te_mtg-ud-dev.conllu 1103
+# sent_id = 1103
+# text = ఆమెకి ..........
+1	_	_	_
+2	_	_	_
+3	_	_	_
+4	come.01	A1:1|A2:2	A1:1-1|A2:2-2
+5	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Telugu-MTG/te_mtg-ud-dev.conllu 1131
+# sent_id = 1131
+# text = మేము న..........
+1	_	_	_
+2	_	_	_
+3	_	_	_
+4	pull.01	A0:1|A1:3	A0:1-1|A1:2-3
+5	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Telugu-MTG/te_mtg-ud-dev.conllu 1135
+# sent_id = 1135
+# text = మీ పేర..........
+1	_	_	_
+2	_	_	_
+3	_	_	_
+4	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Telugu-MTG/te_mtg-ud-dev.conllu 1148
+# sent_id = 1148
+# text = రామయ్య..........
+1	_	_	_
+2	say.01	A0:1	A0:1-1
+3	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Telugu-MTG/te_mtg-ud-dev.conllu 1151
+# sent_id = 1151
+# text = మాకు మ..........
+1	_	_	_
+2	_	_	_
+3	_	_	_
+4	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Telugu-MTG/te_mtg-ud-dev.conllu 1154
+# sent_id = 1154
+# text = కమల పొ..........
+1	_	_	_
+2	_	_	_
+3	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Telugu-MTG/te_mtg-ud-dev.conllu 1157
+# sent_id = 1157
+# text = ఆయన పె..........
+1	_	_	_
+2	_	_	_
+3	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Telugu-MTG/te_mtg-ud-dev.conllu 1159
+# sent_id = 1159
+# text = ఆయనా మ..........
+1	_	_	_
+2	_	_	_
+3	_	_	_
+4	_	_	_
+5	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Telugu-MTG/te_mtg-ud-dev.conllu 1163
+# sent_id = 1163
+# text = అత్తమా..........
+1	_	_	_
+2	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Telugu-MTG/te_mtg-ud-dev.conllu 1175
+# sent_id = 1175
+# text = వాణ్ణి..........
+1	_	_	_
+2	_	_	_
+3	eat.01	A1:1	A1:1-1
+4	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Telugu-MTG/te_mtg-ud-dev.conllu 1196
+# sent_id = 1196
+# text = ఆయన గొ..........
+1	_	_	_
+2	_	_	_
+3	be.01	A1:1|A2:2	A1:1-1|A2:2-2
+4	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Telugu-MTG/te_mtg-ud-dev.conllu 1198
+# sent_id = 1198
+# text = ఇంటికి..........
+1	_	_	_
+2	go.02	A4:1	A4:1-1
+3	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Telugu-MTG/te_mtg-ud-dev.conllu 1206
+# sent_id = 1206
+# text = ఆ వైపు..........
+1	_	_	_
+2	_	_	_
+3	go.02	_	_
+4	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Telugu-MTG/te_mtg-ud-dev.conllu 1213
+# sent_id = 1213
+# text = ఒక పాట..........
+1	_	_	_
+2	_	_	_
+3	sing.01	A1:2	A1:1-2
+4	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Telugu-MTG/te_mtg-ud-dev.conllu 1223
+# sent_id = 1223
+# text = రాము ప..........
+1	_	_	_
+2	_	_	_
+3	_	_	_
+4	put.01	A0:1|A1:3	A0:1-1|A1:2-3
+5	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Telugu-MTG/te_mtg-ud-dev.conllu 1226
+# sent_id = 1226
+# text = నేను వ..........
+1	_	_	_
+2	_	_	_
+3	_	_	_
+4	_	_	_
+5	_	_	_
+6	_	_	_
+7	see.01	A0:1|AM-NEG:8	A0:1-1|AM-NEG:8-8
+8	_	_	_
+9	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Telugu-MTG/te_mtg-ud-dev.conllu 1228
+# sent_id = 1228
+# text = కోతి క..........
+1	_	_	_
+2	_	_	_
+3	hear.01	A1:2	A1:1-2
+4	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Telugu-MTG/te_mtg-ud-dev.conllu 1230
+# sent_id = 1230
+# text = మీరు స..........
+1	_	_	_
+2	_	_	_
+3	go.02	A0:1|A4:2	A0:1-1|A4:2-2
+4	_	_	_
+5	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Telugu-MTG/te_mtg-ud-dev.conllu 1236
+# sent_id = 1236
+# text = నీ పెళ..........
+1	_	_	_
+2	go.02	_	_
+3	_	_	_
+4	_	_	_
+5	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Telugu-MTG/te_mtg-ud-dev.conllu 1246
+# sent_id = 1246
+# text = పక్క ఇ..........
+1	_	_	_
+2	_	_	_
+3	_	_	_
+4	_	_	_
+5	_	_	_
+6	_	_	_
+7	_	_	_
+8	_	_	_
+9	talk.01	A0:2|A2:3	A0:1-2|A2:3-3
+10	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Telugu-MTG/te_mtg-ud-dev.conllu 1261
+# sent_id = 1261
+# text = మేం కొ..........
+1	_	_	_
+2	_	_	_
+3	_	_	_
+4	get.01	A0:1|A1:3	A0:1-1|A1:2-3
+5	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Telugu-MTG/te_mtg-ud-dev.conllu 1269
+# sent_id = 1269
+# text = అయితే ..........
+1	_	_	_
+2	_	_	_
+3	go.02	A0:2	A0:2-2
+4	_	_	_
+5	_	_	_
+6	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Telugu-MTG/te_mtg-ud-dev.conllu 1275
+# sent_id = 1275
+# text = ఎవరితో..........
+1	_	_	_
+2	talk.01	A0:1	A0:1-1
+3	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Telugu-MTG/te_mtg-ud-dev.conllu 1277
+# sent_id = 1277
+# text = ఎక్కడి..........
+1	_	_	_
+2	go.02	A4:1	A4:1-1
+3	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Telugu-MTG/te_mtg-ud-dev.conllu 1288
+# sent_id = 1288
+# text = ఎప్పుడ..........
+1	_	_	_
+2	_	_	_
+3	_	_	_
+4	_	_	_
+5	_	_	_
+6	_	_	_
+7	forget.01	A1:5|AM-MNR:6	A1:5-5|AM-MNR:6-6
+8	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Telugu-MTG/te_mtg-ud-dev.conllu 1297
+# sent_id = 1297
+# text = ఎందరో ..........
+1	_	_	_
+2	get.01	A0:1	A0:1-1
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Telugu-MTG/te_mtg-ud-dev.conllu 1325
+# sent_id = 1325
+# text = వాళ్ళు..........
+1	_	_	_
+2	_	_	_
+3	sing.01	A0:1|A1:2|AM-NEG:4	A0:1-1|A1:2-2|AM-NEG:4-4
+4	_	_	_
+5	_	_	_
+
+# source_sent_id = conllu http://hdl.handle.net/11234/1-4611 UD_Telugu-MTG/te_mtg-ud-dev.conllu 1326
+# sent_id = 1326
+# text = ఆయన ప్..........
+1	_	_	_
+2	_	_	_
+3	ask.01	AM-NEG:4	AM-NEG:4-4
+4	_	_	_
+5	_	_	_
+
