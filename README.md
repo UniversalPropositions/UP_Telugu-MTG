@@ -1,4 +1,4 @@
-# UP_Russian-SynTagRus
+# UP_Telugu-MTG
 
 
 ## Data Format
